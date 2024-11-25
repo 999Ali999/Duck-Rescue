@@ -4,8 +4,6 @@
 
 [Watch our gameplay video here](https://github.com/999Ali999/Duck-Rescue/assets/127804196/5177c50a-3159-4207-aebc-85b494c54de7)
 
----
-
 ## 🚀 Project Overview
 
 In **Duck Rescue**, the player controls a baby duck navigating through a challenging maze. The goal is to avoid touching the walls and escape from a mysterious entity that will eliminate the duck if it makes contact.
